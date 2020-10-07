@@ -1,3 +1,4 @@
+"use strict";
 const filesToCache = [
         '/',
         'assets/css/normalize.css',
